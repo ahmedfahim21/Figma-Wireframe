@@ -8,6 +8,7 @@
 ## Tech Stack
 
 - [Figma](https://www.figma.com/)
+- [Plugin of Material Symbols and Icons](https://fonts.google.com/icons)
 
 
 ### Resources:
