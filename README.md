@@ -3,7 +3,7 @@
 ## About
 
 <p>This is a <b>Figma Wireframe</b> of https://forum.iris.nitk.ac.in/ for the mobile app having all the website's functionality.</p>
-
+<p>Prototyping has also been done</p>
 
 ## Tech Stack
 
