@@ -1,4 +1,4 @@
-<h1 align="center"> Pokedex-App</h1>
+<h1 align="center"> Figma-Wireframe</h1>
 
 ## About
 
